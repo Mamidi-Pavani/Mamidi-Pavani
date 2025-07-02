@@ -18,7 +18,7 @@
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java)
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript)
+
 
 ### 🌐 Web Technologies  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5)
@@ -27,6 +27,7 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript)
 
 ### 🛠️ Backend & Databases  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js)
